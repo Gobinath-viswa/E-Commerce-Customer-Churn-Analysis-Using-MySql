@@ -108,7 +108,7 @@ It helps identify patterns behind customer attrition, enabling strategies to imp
 ---
 
 ## 👨‍💻 Author
-**Naveen M**  
+**GOBINATH  V**  
 _Data Analytics & Machine Learning Enthusiast_  
 
 📧 **Email:** gobigobii1997@gmail.com  
