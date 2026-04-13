@@ -111,5 +111,5 @@ It helps identify patterns behind customer attrition, enabling strategies to imp
 **Naveen M**  
 _Data Analytics & Machine Learning Enthusiast_  
 
-📧 **Email:** iamnaveen1401@gmail.com  
-🌐 **GitHub:** [https://github.com/iamnaveen1401]
+📧 **Email:** gobigobii1997@gmail.com  
+🌐 **GitHub:** [https://github.com/Gobinath-viswa/Final-Project]
